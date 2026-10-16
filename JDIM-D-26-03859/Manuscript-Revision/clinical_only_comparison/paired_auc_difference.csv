@@ -1,0 +1,2 @@
+﻿comparison,delta_AUC,CI95_low,CI95_high,valid_bootstrap,skipped_bootstrap,seed
+Multimodal ViT minus Clinical LR,0.26042167708834363,0.14638889297265514,0.36994731310705925,2000,0,42

@@ -1,0 +1,23 @@
+{
+  "N": 255,
+  "AS_count": 66,
+  "Non_AS_count": 189,
+  "Observed_AS_proportion": 0.25882352941176473,
+  "Mean_predicted_probability": 0.43329653671372553,
+  "Brier_score": 0.13308745222261564,
+  "Brier_CI95_low": 0.1061520447757646,
+  "Brier_CI95_high": 0.16170307879821147,
+  "Bootstrap_repetitions": 2000,
+  "Bootstrap_seed": 42,
+  "Bootstrap_method": "Patient-level non-stratified percentile",
+  "Requested_calibration_groups": 5,
+  "Actual_calibration_groups": 5,
+  "Quantile_edges": [
+    0.001004196,
+    0.14390460000000002,
+    0.26080660000000006,
+    0.41427860000000005,
+    0.9592285600000002,
+    1.0
+  ]
+}

@@ -1,0 +1,8 @@
+scikit-learn=1.4.2
+Development N=1178; external N=255
+Unpenalized logistic regression; five prespecified main effects.
+No class weighting; no external fitting or tuning.
+Continuous variables: development median imputation and scaling.
+Categorical variables: development mode imputation.
+Paired patient bootstrap=2000; seed=42.
+Intervals conditional on fitted models; models not refitted in bootstrap.
